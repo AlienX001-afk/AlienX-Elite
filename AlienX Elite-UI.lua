@@ -1519,7 +1519,7 @@ New=a.load'g'.New
 return[[
 {
     "name": "windui",
-    "version": "Elite V1",
+    "version": "1.0.1",
     "main": "./dist/main.lua",
     "repository": "https://github.com/Footagesus/WindUI",
     "discord": "https://discord.gg/ftgs-development-hub-1300692552005189632",
