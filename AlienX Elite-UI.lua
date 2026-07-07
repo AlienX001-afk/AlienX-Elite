@@ -11281,17 +11281,17 @@ if not ar.IgnoreAlerts then
 ar:SetToTheCenter()
 ar:Dialog{
 
-Title="Close Window",
-Content="Do you want to close this window? You will not be able to open it again.",
+Title="关闭AlienX Elite",
+Content="您确定要关闭AlienX Elite吗？",
 Buttons={
 {
-Title="Cancel",
+Title="取消关闭",
 
 Callback=function()end,
 Variant="Secondary",
 },
 {
-Title="Close Window",
+Title="确定关闭",
 
 Callback=function()ar:Destroy()end,
 Variant="Primary",
